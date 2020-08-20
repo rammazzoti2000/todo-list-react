@@ -33,7 +33,7 @@ class App extends React.Component {
       />
     ))
     return (
-      <div className="App">
+      <div className="todo-list">
       { todoItems }
       </div>
     );
